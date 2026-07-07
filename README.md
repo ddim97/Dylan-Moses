@@ -59,6 +59,5 @@ Completed Linux exercises involving command-line tools, file management, and sys
 
 ## Contact
 
-GitHub: https://github.com/ddim97/Dylan-Moses 
 Email: yungmoses98@gmail.com
 
