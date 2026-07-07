@@ -34,8 +34,6 @@ Configured a simulated network using routers, switches, and IP addressing.
 - Subnetting
 - Troubleshooting
 
-[View Project]
-
 ---
 
 ### Linux Administration Lab
@@ -47,7 +45,6 @@ Completed Linux exercises involving command-line tools, file management, and sys
 - File Permissions
 - System Management
 
-[View Project]
 
 ---
 
@@ -61,4 +58,6 @@ Completed Linux exercises involving command-line tools, file management, and sys
 ---
 
 ## Contact
-- Email: yungmoses98@gmial.com
+
+GitHub: Your GitHub Link  
+LinkedIn: Your LinkedIn Link
